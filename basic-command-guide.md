@@ -13,12 +13,46 @@ New to the server? Here are the essential commands you need to get started.
 | `/help` | Opens the help menu for the server |
 | `/helpop <message>` | Send a message to staff if you need assistance |
 
+## Homes
+
+| Command | Description |
+|---------|-------------|
+| `/sethome` | Set your home at your current location |
+| `/sethome <name>` | Set a named home (if you have multiple homes) |
+| `/home` | Teleport to your home |
+| `/home <name>` | Teleport to a specific named home |
+| `/delhome <name>` | Delete a home |
+
+## Teleportation
+
+| Command | Description |
+|---------|-------------|
+| `/spawn` | Teleport to the server spawn |
+| `/back` | Return to your previous location (after death or teleport) |
+| `/tpa <player>` | Request to teleport to another player |
+| `/tpahere <player>` | Request another player to teleport to you |
+| `/tpaccept` | Accept a teleport request |
+| `/tpdeny` | Deny a teleport request |
+| `/warp <name>` | Teleport to a server warp point |
+
 ## Chat
 
 | Command | Description |
 |---------|-------------|
 | `/globalchat` | Switch to global chat (talk across all servers) |
 | `/localchat` | Switch to local chat (only current server) |
+| `/msg <player> <message>` | Send a private message to a player |
+| `/r <message>` | Reply to the last private message |
+| `/mail send <player> <message>` | Send mail to a player (they can read it when online) |
+| `/mail read` | Read your mail |
+| `/mail clear` | Clear your mail |
+
+## AFK & Status
+
+| Command | Description |
+|---------|-------------|
+| `/afk` | Toggle AFK status |
+| `/afk <message>` | Set AFK with a custom message |
 
 ## Trading with Players
 

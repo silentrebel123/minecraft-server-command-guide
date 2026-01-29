@@ -8,17 +8,15 @@ Commands available to moderators.
 
 ### Staff Mode
 
-| Command             | Description                                  |
-| ------------------- | -------------------------------------------- |
-| `/staff`            | Toggle staff mode on/off                     |
-| `/sfly`             | Toggle flight while in staff mode            |
-| `/staffhub`         | Open the StaffHub GUI                        |
-| `/vanish`           | Toggle vanish (invisible to players)         |
-| `/examine <player>` | View a player's inventory and information    |
-| `/freeze <player>`  | Freeze/unfreeze a player (prevents movement) |
-| `/fc <message>`     | Send a message in the freeze channel         |
-| `/cps <player>`     | Run a clicks per second test on a player     |
-| `/follow <player>`  | Toggle following a player                    |
+| Command             | Description                               |
+| ------------------- | ----------------------------------------- |
+| `/staff`            | Toggle staff mode on/off                  |
+| `/sfly`             | Toggle flight while in staff mode         |
+| `/staffhub`         | Open the StaffHub GUI                     |
+| `/vanish`           | Toggle vanish (invisible to players)      |
+| `/examine <player>` | View a player's inventory and information |
+| `/cps <player>`     | Run a clicks per second test on a player  |
+| `/follow <player>`  | Toggle following a player                 |
 
 ### Teleportation
 
@@ -31,52 +29,48 @@ Commands available to moderators.
 
 ### Reports & Tickets
 
-| Command | Description |
-|---------|-------------|
-| `/report <reason>` | Create a general report |
-| `/reportPlayer <player> <reason>` | Report a specific player |
-| `/my-reports` | Open your reports GUI |
-| `/reports` | View reports (CLI) |
-| `/manage-reports` | Open the report management GUI |
-| `/find-reports` | Search for reports |
-| `/teleport-to-report` | Teleport to a report location |
-| `/rc <message>` | Send a message in the reports chat channel |
-| `/ticket` | Create and manage tickets |
+| Command                           | Description                    |
+| --------------------------------- | ------------------------------ |
+| `/report <reason>`                | Create a general report        |
+| `/reportPlayer <player> <reason>` | Report a specific player       |
+| `/my-reports`                     | Open your reports GUI          |
+| `/reports`                        | View reports (CLI)             |
+| `/manage-reports`                 | Open the report management GUI |
+| `/find-reports`                   | Search for reports             |
+| `/teleport-to-report`             | Teleport to a report location  |
 
 ### Warnings
 
-| Command | Description |
-|---------|-------------|
-| `/warn <player> <reason>` | Warn a player |
-| `/warns <player>` | View player warnings |
-| `/manage-warnings` | Open the warnings management GUI |
-| `/manage-appealed-warnings` | View appealed warnings |
-| `/my-warnings` | View your own warnings |
+| Command                                 | Description                      |
+| --------------------------------------- | -------------------------------- |
+| `/warn <minor/major> <player> <reason>` | Warn a player                    |
+| `/warns <player>`                       | View player warnings             |
+| `/manage-warnings`                      | Open the warnings management GUI |
+| `/manage-appealed-warnings`             | View appealed warnings           |
+| `/my-warnings`                          | View your own warnings           |
 
 ### Bans
 
-| Command | Description |
-|---------|-------------|
-| `/ban <player> <reason>` | Permanently ban a player |
-| `/tempban <player> <duration> <reason>` | Temporarily ban a player |
-| `/unban <player>` | Unban a player |
-| `/ban-extend <player> <duration>` | Extend a player's ban |
-| `/ban-reduce <player> <duration>` | Reduce a player's ban |
-| `/manage-bans` | Open the bans management GUI |
-| `/manage-appealed-bans` | View appealed bans |
+| Command                                 | Description                  |
+| --------------------------------------- | ---------------------------- |
+| `/ban <player> <reason>`                | Permanently ban a player     |
+| `/tempban <player> <duration> <reason>` | Temporarily ban a player     |
+| `/unban <player>`                       | Unban a player               |
+| `/ban-extend <player> <duration>`       | Extend a player's ban        |
+| `/ban-reduce <player> <duration>`       | Reduce a player's ban        |
+| `/manage-bans`                          | Open the bans management GUI |
 
 ### Mutes
 
-| Command | Description |
-|---------|-------------|
-| `/mute <player> <reason>` | Permanently mute a player |
-| `/tempmute <player> <duration> <reason>` | Temporarily mute a player |
-| `/unmute <player>` | Unmute a player |
-| `/mute-extend <player> <duration>` | Extend a player's mute |
-| `/mute-reduce <player> <duration>` | Reduce a player's mute |
-| `/manage-mutes` | Open the mutes management GUI |
-| `/manage-appealed-mutes` | View appealed mutes |
-| `/my-mutes` | View your own mutes |
+| Command                                  | Description                   |
+| ---------------------------------------- | ----------------------------- |
+| `/mute <player> <reason>`                | Permanently mute a player     |
+| `/tempmute <player> <duration> <reason>` | Temporarily mute a player     |
+| `/unmute <player>`                       | Unmute a player               |
+| `/mute-extend <player> <duration>`       | Extend a player's mute        |
+| `/mute-reduce <player> <duration>`       | Reduce a player's mute        |
+| `/manage-mutes`                          | Open the mutes management GUI |
+| `/my-mutes`                              | View your own mutes           |
 
 ### Kicks
 
@@ -102,26 +96,23 @@ Commands available to moderators.
 
 ### IP Bans
 
-| Command | Description |
-|---------|-------------|
-| `/ipban <ip>` | Permanently ban an IP address |
-| `/iptempban <ip> <duration>` | Temporarily ban an IP address |
-| `/ipunban <ip>` | Unban an IP address |
-| `/ipban-check <player>` | Check if a player's IP is banned |
-| `/ipbans` | View all IP bans |
+| Command                      | Description                      |
+| ---------------------------- | -------------------------------- |
+| `/ipban <ip>`                | Permanently ban an IP address    |
+| `/iptempban <ip> <duration>` | Temporarily ban an IP address    |
+| `/ipunban <ip>`              | Unban an IP address              |
+| `/ipban-check <player>`      | Check if a player's IP is banned |
+| `/ipbans`                    | View all IP bans                 |
 
 ### Utility
 
-| Command                   | Description                        |
-| ------------------------- | ---------------------------------- |
-| `/personnel`              | List online staff members          |
-| `/strip <player>`         | Strip a player's armor             |
-| `/clear <player>`         | Clear a player's inventory         |
-| `/eview <player>`         | View a player's ender chest        |
-| `/revive <player>`        | Revive a dead player               |
-| `/trace <player>`         | Start/stop tracing a player        |
-| `/protectPlayer <player>` | Toggle protection on a player      |
-| `/protectArea`            | Create or delete a protected area  |
-| `/broadcast <message>`    | Broadcast a message to all servers |
-| `/chat`                   | Chat management commands           |
-| `/alerts`                 | Manage alerts                      |
+| Command                | Description                        |
+| ---------------------- | ---------------------------------- |
+| `/personnel`           | List online staff members          |
+| `/strip <player>`      | Strip a player's armor             |
+| `/clear <player>`      | Clear a player's inventory         |
+| `/eview <player>`      | View a player's ender chest        |
+| `/revive <player>`     | Revive a dead player               |
+| `/trace <player>`      | Start/stop tracing a player        |
+| `/broadcast <message>` | Broadcast a message to all servers |
+| `/alerts`              | Manage alerts                      |

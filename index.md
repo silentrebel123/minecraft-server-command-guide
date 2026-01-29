@@ -9,4 +9,6 @@ Welcome to the server documentation! Use the links below to navigate to differen
 
 ## Staff
 
-- [Staff Guide](staff-guide) - Commands for server staff members
+- [Builder Guide](builder-guide) - Commands for builder staff members.
+- [Mod Guide](mod-guide) - Commands for moderating the server.
+- [Admin Guide](admin-guide) - Commands for admin+ staff members.

@@ -88,14 +88,6 @@ New to the server? Here are the essential commands you need to get started.
 | `/quests take <quest>` | Accept a quest |
 | `/quest` | View your current quest objectives |
 
-## Other Useful Commands
-
-| Command | Description |
-|---------|-------------|
-| `/ag` | Teleport to the Adventurer's Guild |
-| `/drop2inv` | Toggle automatic drop collection |
-| `/axgraves list` | List your death graves |
-
 ---
 
 Ready for more? Check out the [Advanced Command Guide](advanced-command-guide) for the full list of commands.

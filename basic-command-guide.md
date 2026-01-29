@@ -12,6 +12,13 @@ New to the server? Here are the essential commands you need to get started.
 |---------|-------------|
 | `/help` | Opens the help menu for the server |
 | `/helpop <message>` | Send a message to staff if you need assistance |
+## Server Navigation
+
+| Command | Description |
+|---------|-------------|
+| `/lobby` | Connect to the lobby server |
+| `/survival` | Teleport to the survival server |
+| `/creative` | Teleport to the creative server |
 
 ## Homes
 
@@ -25,42 +32,23 @@ New to the server? Here are the essential commands you need to get started.
 
 ## Teleportation
 
-| Command | Description |
-|---------|-------------|
-| `/spawn` | Teleport to the server spawn |
-| `/back` | Return to your previous location (after death or teleport) |
-| `/tpa <player>` | Request to teleport to another player |
-| `/tpahere <player>` | Request another player to teleport to you |
-| `/tpaccept` | Accept a teleport request |
-| `/tpdeny` | Deny a teleport request |
-| `/warp <name>` | Teleport to a server warp point |
-
-## Server Navigation
-
-| Command | Description |
-|---------|-------------|
-| `/lobby` | Connect to the lobby server |
-| `/survival` | Teleport to the survival server |
-| `/creative` | Teleport to the creative server |
+| Command             | Description                                                |
+| ------------------- | ---------------------------------------------------------- |
+| `/spawn`            | Teleport to the server spawn                               |
+| `/back`             | Return to your previous location (after death or teleport) |
+| `/tpa <player>`     | Request to teleport to another player                      |
+| `/tpahere <player>` | Request another player to teleport to you                  |
+| `/tpaccept`         | Accept a teleport request                                  |
+| `/tpdeny`           | Deny a teleport request                                    |
 
 ## Chat
 
-| Command | Description |
-|---------|-------------|
-| `/globalchat` | Switch to global chat (talk across all servers) |
-| `/localchat` | Switch to local chat (only current server) |
-| `/msg <player> <message>` | Send a private message to a player |
-| `/r <message>` | Reply to the last private message |
-| `/mail send <player> <message>` | Send mail to a player (they can read it when online) |
-| `/mail read` | Read your mail |
-| `/mail clear` | Clear your mail |
-
-## AFK & Status
-
-| Command | Description |
-|---------|-------------|
-| `/afk` | Toggle AFK status |
-| `/afk <message>` | Set AFK with a custom message |
+| Command                         | Description                                          |
+| ------------------------------- | ---------------------------------------------------- |
+| `/globalchat`                   | Switch to global chat (talk across all servers)      |
+| `/localchat`                    | Switch to local chat (only current server)           |
+| `/msg <player> <message>`       | Send a private message to a player                   |
+| `/r <message>`                  | Reply to the last private message                    |
 
 ## Trading with Players
 
@@ -72,29 +60,21 @@ New to the server? Here are the essential commands you need to get started.
 
 ## Inventory Management
 
-| Command | Description |
-|---------|-------------|
-| `/sort` | Open sorting settings menu |
-| `/sort on` | Enable automatic chest sorting |
+| Command     | Description                     |
+| ----------- | ------------------------------- |
+| `/sort`     | Open sorting settings menu      |
+| `/sort on`  | Enable automatic chest sorting  |
 | `/sort off` | Disable automatic chest sorting |
-| `/invsort` | Sort your inventory |
+| `/invsort`  | Sort your inventory             |
 
 ## Jobs
 
-| Command | Description |
-|---------|-------------|
-| `/jobs browse` | See available jobs |
-| `/jobs join <job>` | Join a job |
-| `/jobs leave <job>` | Leave a job |
-| `/jobs stats` | View your job statistics |
-
-## Quests
-
-| Command | Description |
-|---------|-------------|
-| `/quests list` | See available quests |
-| `/quests take <quest>` | Accept a quest |
-| `/quest` | View your current quest objectives |
+| Command             | Description              |
+| ------------------- | ------------------------ |
+| `/jobs browse`      | See available jobs       |
+| `/jobs join <job>`  | Join a job               |
+| `/jobs leave <job>` | Leave a job              |
+| `/jobs stats`       | View your job statistics |
 
 ## Lands (Land Claiming)
 

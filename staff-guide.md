@@ -24,17 +24,17 @@ Commands available to server staff members.
 
 ### Staff++ - Staff Mode
 
-| Command | Description |
-|---------|-------------|
-| `/staff` | Toggle staff mode on/off |
-| `/sfly` | Toggle flight while in staff mode |
-| `/staffhub` | Open the StaffHub GUI |
-| `/vanish` | Toggle vanish (invisible to players) |
-| `/examine <player>` | View a player's inventory and information |
-| `/freeze <player>` | Freeze/unfreeze a player (prevents movement) |
-| `/fc <message>` | Send a message in the freeze channel |
-| `/cps <player>` | Run a clicks per second test on a player |
-| `/follow <player>` | Toggle following a player |
+| Command             | Description                                  |
+| ------------------- | -------------------------------------------- |
+| `/staff`            | Toggle staff mode on/off                     |
+| `/sfly`             | Toggle flight while in staff mode            |
+| `/staffhub`         | Open the StaffHub GUI                        |
+| `/vanish`           | Toggle vanish (invisible to players)         |
+| `/examine <player>` | View a player's inventory and information    |
+| `/freeze <player>`  | Freeze/unfreeze a player (prevents movement) |
+| `/fc <message>`     | Send a message in the freeze channel         |
+| `/cps <player>`     | Run a clicks per second test on a player     |
+| `/follow <player>`  | Toggle following a player                    |
 
 ### Staff++ - Teleportation
 
@@ -122,10 +122,9 @@ Commands available to server staff members.
 
 ### Staff++ - Alt Detection
 
-| Command | Description |
-|---------|-------------|
-| `/altCheck <player>` | Check if a player is an alt account |
-| `/altWhitelist <player>` | Whitelist a player from alt detection |
+| Command                  | Description                           |
+| ------------------------ | ------------------------------------- |
+| `/alts <player>`         | Check if a player is an alt account   |
 
 ### Staff++ - IP Bans
 

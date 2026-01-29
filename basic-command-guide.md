@@ -12,6 +12,7 @@ New to the server? Here are the essential commands you need to get started.
 |---------|-------------|
 | `/help` | Opens the help menu for the server |
 | `/helpop <message>` | Send a message to staff if you need assistance |
+
 ## Server Navigation
 
 | Command | Description |

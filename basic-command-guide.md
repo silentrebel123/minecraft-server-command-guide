@@ -35,6 +35,14 @@ New to the server? Here are the essential commands you need to get started.
 | `/tpdeny` | Deny a teleport request |
 | `/warp <name>` | Teleport to a server warp point |
 
+## Server Navigation
+
+| Command | Description |
+|---------|-------------|
+| `/lobby` | Connect to the lobby server |
+| `/survival` | Teleport to the survival server |
+| `/creative` | Teleport to the creative server |
+
 ## Chat
 
 | Command | Description |

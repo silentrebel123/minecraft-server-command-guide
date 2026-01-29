@@ -88,6 +88,23 @@ New to the server? Here are the essential commands you need to get started.
 | `/quests take <quest>` | Accept a quest |
 | `/quest` | View your current quest objectives |
 
+## Lands (Land Claiming)
+
+| Command | Description |
+|---------|-------------|
+| `/lands` | Open the Lands GUI menu |
+| `/lands create <name>` | Create a new land with the specified name |
+| `/lands claim` | Claim the chunk you're standing in for your land |
+| `/lands unclaim` | Unclaim the chunk you're standing in |
+| `/lands map` | View a map of nearby claimed lands |
+| `/lands trust <player>` | Trust a player to build and interact in your land |
+| `/lands untrust <player>` | Remove a player's trust from your land |
+| `/lands setspawn` | Set the spawn point for your land |
+| `/lands spawn` | Teleport to your land's spawn point |
+| `/lands accept` | Accept an invitation to join a land |
+| `/lands deny` | Deny an invitation to join a land |
+| `/lands leave` | Leave a land you're a member of |
+
 ---
 
 Ready for more? Check out the [Advanced Command Guide](advanced-command-guide) for the full list of commands.

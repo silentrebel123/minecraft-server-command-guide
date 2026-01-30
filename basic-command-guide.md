@@ -15,11 +15,17 @@ New to the server? Here are the essential commands you need to get started.
 
 ## Server Navigation
 
-| Command | Description |
-|---------|-------------|
-| `/lobby` | Connect to the lobby server |
+| Command     | Description                     |
+| ----------- | ------------------------------- |
+| `/lobby`    | Connect to the lobby server     |
 | `/survival` | Teleport to the survival server |
 | `/creative` | Teleport to the creative server |
+## Discord Sync
+
+| Command           | Description                                                                                                                                       |
+| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `/discord link`   | Start the process to link your Minecraft account to your discord account, this will synchronize Minecraft your roles to match your discord roles. |
+| `/discord unlink` | Unlink your Minecraft account from your discord account.                                                                                          |
 
 ## Homes
 
@@ -77,7 +83,7 @@ New to the server? Here are the essential commands you need to get started.
 | `/jobs leave <job>` | Leave a job              |
 | `/jobs stats`       | View your job statistics |
 
-## Lands (Land Claiming)
+## Lands (Claims/Factions)
 
 | Command | Description |
 |---------|-------------|

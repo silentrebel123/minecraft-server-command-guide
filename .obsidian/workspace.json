@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "admin-guide.md",
+                "file": "basic-command-guide.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "admin-guide"
+              "title": "basic-command-guide"
             }
           }
         ]
@@ -185,12 +185,12 @@
   },
   "active": "ecd242c6d6102ebe",
   "lastOpenFiles": [
+    "admin-guide.md",
     "mod-guide.md",
     "index.md",
     "builder-guide.md",
     "basic-command-guide.md",
     "advanced-command-guide.md",
-    "admin-guide.md",
     "staff-guide.md",
     "staff-guide - Copy.md"
   ]

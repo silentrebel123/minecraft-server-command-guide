@@ -20,6 +20,7 @@ New to the server? Here are the essential commands you need to get started.
 | `/lobby`    | Connect to the lobby server     |
 | `/survival` | Teleport to the survival server |
 | `/creative` | Teleport to the creative server |
+
 ## Discord Sync
 
 | Command           | Description                                                                                                                                       |
